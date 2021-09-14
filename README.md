@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BambDev
+- 👀 I’m interested in front (html,css,php,JS)
+- 🌱 I’m currently learning html and css 
+- 💞️ I’m looking to collaborate on front-end project for learning. 
